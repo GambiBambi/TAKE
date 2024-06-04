@@ -4438,11 +4438,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\julia\\Desktop\\Studia\\Informatyka 2 stopień\\Semestr 1\\TAKE\\CompanyApi\\CompanyApi\\CompanyApi.csproj",
+      "projectUniqueName": "C:\\Users\\julia\\TAKE\\CompanyApi\\CompanyApi\\CompanyApi.csproj",
       "projectName": "CompanyApi",
-      "projectPath": "C:\\Users\\julia\\Desktop\\Studia\\Informatyka 2 stopień\\Semestr 1\\TAKE\\CompanyApi\\CompanyApi\\CompanyApi.csproj",
+      "projectPath": "C:\\Users\\julia\\TAKE\\CompanyApi\\CompanyApi\\CompanyApi.csproj",
       "packagesPath": "C:\\Users\\julia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\julia\\Desktop\\Studia\\Informatyka 2 stopień\\Semestr 1\\TAKE\\CompanyApi\\CompanyApi\\obj\\",
+      "outputPath": "C:\\Users\\julia\\TAKE\\CompanyApi\\CompanyApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

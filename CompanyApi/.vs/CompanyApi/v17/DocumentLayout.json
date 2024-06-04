@@ -1,12 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\julia\\Desktop\\Studia\\Informatyka 2 stopie\u0144\\Semestr 1\\TAKE\\CompanyApi\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\julia\\TAKE\\CompanyApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0BA1CF-8361-41D7-972D-63BEED9E5CAB}|CompanyApi\\CompanyApi.csproj|c:\\users\\julia\\take\\companyapi\\companyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0BA1CF-8361-41D7-972D-63BEED9E5CAB}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0BA1CF-8361-41D7-972D-63BEED9E5CAB}|CompanyApi\\CompanyApi.csproj|c:\\users\\julia\\take\\companyapi\\companyapi\\models\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0BA1CF-8361-41D7-972D-63BEED9E5CAB}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\models\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0BA1CF-8361-41D7-972D-63BEED9E5CAB}|CompanyApi\\CompanyApi.csproj|c:\\users\\julia\\take\\companyapi\\companyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D0BA1CF-8361-41D7-972D-63BEED9E5CAB}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0BA1CF-8361-41D7-972D-63BEED9E5CAB}|CompanyApi\\CompanyApi.csproj|c:\\users\\julia\\take\\companyapi\\companyapi\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0BA1CF-8361-41D7-972D-63BEED9E5CAB}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\models\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D0BA1CF-8361-41D7-972D-63BEED9E5CAB}|CompanyApi\\CompanyApi.csproj|c:\\users\\julia\\take\\companyapi\\companyapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D0BA1CF-8361-41D7-972D-63BEED9E5CAB}|CompanyApi\\CompanyApi.csproj|solutionrelative:companyapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\TAKE\\CompanyApi\\CompanyApi\\Program.cs",
+              "RelativeDocumentMoniker": "CompanyApi\\Program.cs",
+              "ToolTip": "C:\\Users\\julia\\TAKE\\CompanyApi\\CompanyApi\\Program.cs",
+              "RelativeToolTip": "CompanyApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:58:45.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\TAKE\\CompanyApi\\CompanyApi\\Models\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "CompanyApi\\Models\\DepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\julia\\TAKE\\CompanyApi\\CompanyApi\\Models\\DepartmentDTO.cs",
+              "RelativeToolTip": "CompanyApi\\Models\\DepartmentDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:57:47.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\TAKE\\CompanyApi\\CompanyApi\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CompanyApi\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\julia\\TAKE\\CompanyApi\\CompanyApi\\Models\\Department.cs",
+              "RelativeToolTip": "CompanyApi\\Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:57:45.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CompanyDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\julia\\TAKE\\CompanyApi\\CompanyApi\\Models\\CompanyDbContext.cs",
+              "RelativeDocumentMoniker": "CompanyApi\\Models\\CompanyDbContext.cs",
+              "ToolTip": "C:\\Users\\julia\\TAKE\\CompanyApi\\CompanyApi\\Models\\CompanyDbContext.cs",
+              "RelativeToolTip": "CompanyApi\\Models\\CompanyDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T22:57:41.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\julia\\TAKE\\CompanyApi\\CompanyApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CompanyApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\julia\\TAKE\\CompanyApi\\CompanyApi\\appsettings.json",
+              "RelativeToolTip": "CompanyApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-04T22:57:29.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

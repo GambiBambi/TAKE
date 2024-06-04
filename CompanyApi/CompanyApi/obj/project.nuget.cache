@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YnnHco5NHK8RteE6bCbVg/P2FnmMGg2zkp3p+1sluwzjVLJj3pS0SQ7rERmkK0e/Rvfy+OB1tpmpFUv0J8J/ew==",
+  "dgSpecHash": "H6jZsxZZJfE/XbfqGD+7RbNdT4Rp7HfjSGHTRAYqiX7vpxDPgi8uzKiCkXDBLwdCdAC46AbQ4rFYrS7xXcSxwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\julia\\Desktop\\Studia\\Informatyka 2 stopień\\Semestr 1\\TAKE\\CompanyApi\\CompanyApi\\CompanyApi.csproj",
+  "projectFilePath": "C:\\Users\\julia\\TAKE\\CompanyApi\\CompanyApi\\CompanyApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\julia\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\julia\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
